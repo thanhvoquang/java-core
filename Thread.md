@@ -11,4 +11,4 @@
 | Complex    | Synchronization and resource sharing is easier for green threads and hence execution time is also less.                                             | Thread synchronization and resource sharing become complicated. This increases execution time of threads.                                      |
 
 ### How many threads can a Java VM support?
-This depends on the CPU you're using, they discussed in [StackOverFlow](https://stackoverflow.com/questions/763579/how-many-threads-can-a-java-vm-support) in which you can read more
+This depends on the CPU and the OS you're using, they discussed in [StackOverFlow](https://stackoverflow.com/questions/763579/how-many-threads-can-a-java-vm-support) in which you can read more
