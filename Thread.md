@@ -1,9 +1,6 @@
-# java-core
+# Thread series
 
-# java-core
-
-What is difffrent Green Thread vs Native Thread ?
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+### What is different Green Thread vs Native Thread ?
 
 | FEATURES   | GREEN THREAD (deprecated)                                                                                                                           | NATIVE THREAD                                                                                                                                  |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
