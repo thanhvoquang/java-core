@@ -1,5 +1,6 @@
-# java-core
-# java-core
+# Some problem about Java thread
+
+## What is different between Green vs Native thread in Java ?
 
 
 | FEATURES   | GREEN THREAD (deprecated)                                                                                                                        | NATIVE THREAD                                                                                                                               |
